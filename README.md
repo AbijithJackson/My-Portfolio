@@ -1,4 +1,4 @@
-# My-Portfolio
+# Portfolio Repository README
 
 Welcome to my portfolio repository! This repository contains a collection of projects, code samples, and demonstrations showcasing my skills, experiences, and interests in the field of Software Development. Whether you're a potential employer, collaborator, or just curious visitor, I hope you find something of interest here.
 
@@ -16,7 +16,7 @@ I am a passionate about Software Development with a strong background in compute
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/AbijithJackson/My-Portfolio.git`
+1. Clone the repository: `git clone https://github.com/AbijithJackson/portfolio.git`
 2. Explore projects of interest.
 
 
