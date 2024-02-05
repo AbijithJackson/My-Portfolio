@@ -16,7 +16,7 @@ I am a passionate about Software Development with a strong background in compute
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/AbijithJackson/portfolio.git`
+1. Clone the repository: `git clone https://github.com/AbijithJackson/My-Portfolio.git`
 2. Explore projects of interest.
 
 
